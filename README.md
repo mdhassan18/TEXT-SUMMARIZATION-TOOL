@@ -87,3 +87,9 @@ Content Creation: Bloggers and marketers can generate social media captions and 
 # Conclusion:
 
 This project demonstrates how NLP and deep learning models can be applied to real-world problems. The tool provides an efficient, accurate way to summarize content, saving time while maintaining information quality. It lays the foundation for future enhancements such as PDF summarization, GUI integration, or even web-based deployments using Flask or Streamlit.
+
+
+# OUTPUT
+
+<img width="1919" height="1078" alt="Image" src="https://github.com/user-attachments/assets/bc732c3a-9584-46b0-9823-09329326033d" />
+<img width="1919" height="1077" alt="Image" src="https://github.com/user-attachments/assets/6dcd9bcb-abf7-437c-8b4f-6bb6d63de5ab" />
